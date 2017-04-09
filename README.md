@@ -1,5 +1,7 @@
 # weather-map
 
+demo: http://codepen.io/yining1023/full/MpNKKj/
+
 This examples uese mapbox gl and open weather API. It -
 1. requests weather data every 2 s.
 2. draws circles in each city, the color depends on the temperature (10 - 20 degree, blue - orange)
